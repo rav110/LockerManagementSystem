@@ -267,7 +267,7 @@ public class Screen1 extends javax.swing.JFrame {
                } 
                else{
                	JOptionPane.showMessageDialog(null, "Incorrect Login Details");
-               	adminField.setText(" ");
+               	adminField.setText("");
                	adminPassword.setText("");
                }
 //            }
